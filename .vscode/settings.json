@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "sync0sync.h": "c",
+    "*.ic": "cpp"
+  }
+}
